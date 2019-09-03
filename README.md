@@ -1,2 +1,2 @@
-# T-picos_Avan-ados_em_Inform-tica
+# Tópicos_Avançados_em_Informática
 Neste repositório estarei publicando todas as atividades de python desenvolvidas na aula de Tópicos Avançados em Informática
